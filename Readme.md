@@ -111,7 +111,7 @@ It is an ideal starting point for real-world e-commerce analytics projects.
 # 👤 Author
 Shruti Narendra Wakode
 
-📧 [Email](shrutiwakode3@gmail.com)
+📧 Email : shrutiwakode3@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-wakode-710929261)
 
